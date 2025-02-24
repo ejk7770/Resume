@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+    color: #6a0dad; 
+}
+
+h2 {
+	font-family: 'Abril Fatface';
+    color: #6a0dad; 
+    border-bottom: 2px solid #c8a2c8; 
+    padding-bottom: 5px;
+    font-size: 27px;
+}
+p {
+	font-family: 'Abril Fatface';
+	font-size: 18px;
+}
+
+li {
+	font-family: 'Abril Fatface';
+}
+
+a:hover {
+	background-color: #3a0066;
+    color: #a663cc;
+    text-decoration: underline;
+    font-family: 'Abril Fatface';
+}
+a:hover {
+	background-color: #3a0066;
+    color: #a663cc;
+    text-decoration: underline;
+    font-family: 'Abril Fatface';
+}
